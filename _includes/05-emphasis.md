@@ -1,1 +1,7 @@
-Write out some of your awesome attributes, and use emphasis (like bold or italics) to identify keywords, programming languages, or skills. 
+*Sé escribir bien*
+_Mazo bien_
+
+**Permíteme que insista**
+__Que escribo bien, te digo__
+
+_He dicho que **escribo** bien_
