@@ -1,3 +1,5 @@
-1. Elemento uno de la lista
-2. Venga, que tu puedes
-3. Hemos llegado al elemento 3
+Aquí mis cualidades que me hacen altamente empleable
+
+1. Tengo lo que hay que tener (usted ya sabe para qué)
+2. No me quejo en horario de trabajo, solo en twitter
+3. Estoy muy acostumbrado a cobrar poco y trabajar mucho
